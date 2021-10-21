@@ -1,3 +1,3 @@
 # STT_juypter
  
-This is our prototype for IBM WASTON Speech to Text API. 
+This is our prototype for IBM WATSON Speech to Text API. 
